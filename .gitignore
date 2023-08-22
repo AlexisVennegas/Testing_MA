@@ -159,3 +159,11 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 *.csv
+share
+/share
+\share
+MA_testing
+MA_testing/
+\MA_testing
+/MA_testing
+
